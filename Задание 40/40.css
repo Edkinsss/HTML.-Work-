@@ -1,0 +1,30 @@
+h1 {
+    color:blue;
+    font-size: 40px;
+    text-indent: 90px;
+}
+
+h2 {
+    color:green;
+    font-weight: normal;
+    font-size: 30px;
+    text-indent: 150px;
+}
+
+p {
+    width: 500px;
+    text-indent: 40px;
+    font-family: Arial;
+    line-height: 25px;
+    font-size: 16px;
+    word-spacing: 5px;
+}
+
+i {
+    color: green;
+}
+
+li {
+    width: 400px;
+    word-spacing: 5px;
+}
