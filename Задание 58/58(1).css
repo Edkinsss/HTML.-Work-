@@ -1,0 +1,7 @@
+.block h1, .block h2 {
+	text-align: center;
+}
+
+h2 p {
+    font-size: 15px;
+}
