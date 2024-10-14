@@ -1,0 +1,16 @@
+.success {
+	color: green;
+    font-size: 50px;
+}
+.error {
+	color: red;
+    font-size: 15px;
+}
+.large {
+    color: red;
+	font-size: 50px;
+}
+.small {
+    color: green;
+	font-size: 15px;
+}
