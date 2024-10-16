@@ -1,0 +1,12 @@
+li:empty {
+	border: 1px solid blue;
+	width: 100px;
+    height: 20px;
+}
+
+li {
+    border: solid red;
+    width: 100px;
+    margin: 5px 0;
+    
+}
