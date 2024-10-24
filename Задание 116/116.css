@@ -1,0 +1,28 @@
+
+#elem1 {
+    text-indent: 200px;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #FF8888;
+}
+#elem2 {
+    text-indent: 200px;
+    position: relative;
+    top: -40px;
+    right:-40px;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #7E89EB;
+}
+#elem3 {
+    text-indent: 200px;
+    position: relative;
+	width: 100px;
+    top: -80px;
+    right: -80px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #4DEE99;
+}
