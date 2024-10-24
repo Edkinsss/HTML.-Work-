@@ -1,0 +1,31 @@
+.elem1 {
+    width: 400px;
+    height: 700px;
+    margin: 10px auto;
+    border: 1px solid green;
+    text-align: justify;
+    padding: 20px;
+}
+
+.child {
+
+	position: fixed;
+	left: 200px;
+	top: 10px;
+	width: 40px;
+	height: 40px;
+	border: 1px solid red;
+
+}
+			
+.sit {
+	
+    position: fixed;
+	right: 200px;
+	top: 10px;
+	width: 40px;
+	height: 40px;
+	border: 1px solid red;
+		
+}
+
