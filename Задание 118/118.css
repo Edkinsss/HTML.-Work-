@@ -1,0 +1,25 @@
+.elem1 {
+    width: 400px;
+    height: 300px;
+    margin: 40px auto;
+    border: 1px solid green;
+
+}
+
+.child {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: -2px;
+    left: -90px;
+    border: 1px solid red;
+}
+
+.sit {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: -53px;
+    left: 440px;
+    border: 1px solid red;
+}
