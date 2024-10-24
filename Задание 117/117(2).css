@@ -1,0 +1,28 @@
+.elem1 {
+    margin: 30px auto;
+    width: 500px;
+    height: 500px;
+    background: #4CEE99;
+    border: 1px solid #4CEE99;;
+}
+
+.child {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    top: 75px;
+    left: 75px;
+    background: #FFFFFF;
+    border: 1px solid #4CEE99;
+}
+
+.sit {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    top: 235px;
+    left: 350px;
+    background: #FFFFFF;
+    border: 1px solid #4CEE99;
+
+}

@@ -1,0 +1,15 @@
+.elem1 {
+    margin: 30px auto;
+    width: 500px;
+    height: 500px;
+    border: 1px solid green;
+}
+
+.child {
+    position: relative;
+    width: 75px;
+    height: 75px;
+    top: 75px;
+    left: 75px;
+    border: 1px solid red;
+}
