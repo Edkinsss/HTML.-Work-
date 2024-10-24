@@ -1,6 +1,6 @@
 .parent {
     text-align: right;
+    margin-right: 20px;
 	padding: 10px 0;
 	border: 1px solid red;
-    margin-right: 50px;
 }
