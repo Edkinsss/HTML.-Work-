@@ -1,0 +1,21 @@
+.parent {
+	padding: 10px 0;
+    text-align: right;
+    margin-right: 20px; /* отступ от правой части */
+	border: 1px solid red;
+}
+
+a {
+    text-align: center;
+    display: inline-block;
+    border: 1px solid blueviolet;
+
+}
+
+.child {
+    display: inline-block;
+    text-align: right;
+    margin-right: 20px;
+	padding: 10px;
+	border: 1px solid green;
+}
