@@ -1,0 +1,14 @@
+.parent {
+    width: 900px;
+    margin: 20px;
+    height: 400px;
+	display: flex;
+    justify-content: center;
+	border: 1px solid red;
+}
+
+.child {
+	width: 120px;
+	height: 60px;
+	border: 1px solid green;
+}
