@@ -1,0 +1,16 @@
+.parent {
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+	display: flex;
+	flex-direction: column-reverse; /* главная ось снизу вверх */
+	justify-content: flex-end; /* блоки к концу главной оси */
+}
+
+
+.child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green; 
+}
