@@ -1,0 +1,22 @@
+.elem {
+	align-self: center;
+}
+
+.parent {
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red; 
+	display: flex;
+	flex-direction:  column;     
+	justify-content: center; 
+	align-items: flex-start; 
+}
+
+
+.child {
+    text-align: center;
+    width: 120px;
+    height: 60px;
+    border: 1px solid green; 
+}
